@@ -1,4 +1,7 @@
+
 fastapi
 uvicorn[standard]
-pydantic
 boto3
+pwdlib[argon2]
+PyJWT
+python-dotenv
